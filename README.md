@@ -20,7 +20,7 @@
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br /><br />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JandirWeb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JandirWeb&layout=compact)](https://github.com/JandirWeb/github-readme-stats)
 
 
 ## I can help you to create websites and landingpages with Wordpress 😉 (Follow me)
